@@ -1,0 +1,5 @@
+2022/02/18 01:41:22 [error] 6380#3196: *6081 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while reading response header from upstream, client: 127.0.0.1, server: , request: "POST /wp-admin/admin-ajax.php HTTP/1.0", upstream: "fastcgi://127.0.0.1:10002", host: "yakeen.local", referrer: "http://yakeen.local/wp-admin/post.php?post=16&action=edit"
+2022/02/18 02:46:34 [alert] 5240#21468: OpenEvent("ngx_master_11404") failed (2: The system cannot find the file specified)
+2022/02/18 17:37:04 [alert] 11764#30104: OpenEvent("ngx_master_8404") failed (2: The system cannot find the file specified)
+2022/02/20 19:49:19 [alert] 9680#8000: worker process 8372 exited with code C0000142
+2022/02/20 19:49:19 [alert] 9680#8000: could not respawn worker
